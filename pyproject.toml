@@ -25,7 +25,7 @@ scib = "^1.0.3"
 cell-gears = "<0.0.3"
 orbax = "<0.1.8"
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 pytest = "^5.2"
 black = "^22.3.0"
 tensorflow = "^2.8.0"
